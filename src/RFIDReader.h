@@ -6,7 +6,7 @@
 //gh
 #define RST_PIN     22  // Configura estos pines según tu conexión
 #define SS_PIN      21  // Configura estos pines según tu conexión
-
+//Hola
 class RFIDReader {
 public:
   RFIDReader();
