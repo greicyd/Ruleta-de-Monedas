@@ -9,7 +9,10 @@
 #include <Adafruit_MCP23X08.h>
 #include <LiquidCrystal_I2C.h>
 #include <FastLED.h>
+#include <LittleFS.h>
 #include <WiFi.h>
+#include <SD.h>
+#include <Update.h>
 //#include <FirebaseESP32.h>
 
 
